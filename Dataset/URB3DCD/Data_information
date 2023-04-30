@@ -1,0 +1,2 @@
+# The target datasets contain a 1D array with only the classification values in order to match their feature counterpart
+# The train/validation datasets contain "X", "Y", "Z" coordinates and can be extracted as Coordinates = X_test[:,:3] and features as Features = X_test[:,3:]
