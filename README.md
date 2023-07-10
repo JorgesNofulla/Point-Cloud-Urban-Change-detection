@@ -8,11 +8,9 @@ ALL CODES ARE PRONE TO CHANGING
 ![](media/General_idea.png)
 
 
-1) [`media`](./media/): Images used in this repository.
 1) [`Change_Detection_Scripts`](./Change_Detection_Scripts): Folder with the full scripts of the change detection methods.
 2) [`Data_Pre-Processing_Script`](./Data_Pre-Processing_Script): Folder with the full scripts for the pre-processing of the data.
 1) [`Dataset`](Dataset/URB3DCD): A sample of pre-processed data from Urb3DCD dataset.
 2) [`Thesis_Document`](Thesis_Jorges_s2673053.pdf): The full documentation and description of the study.
+3) [`Media`](./media/): Images used in this repository.
 1) [`Requirements`](requirements.txt): The version of the libraries used in the code
-
-2) 
