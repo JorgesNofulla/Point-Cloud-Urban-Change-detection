@@ -14,3 +14,6 @@ ALL CODES ARE PRONE TO CHANGING
 2) [`Thesis_Document`](Thesis_Jorges_s2673053.pdf): The full documentation and description of the study.
 3) [`Media`](./media/): Images used in this repository.
 1) [`Requirements`](requirements.txt): The version of the libraries used in the code
+
+# Steps to follow
+
