@@ -25,3 +25,9 @@ ALL CODES ARE PRONE TO CHANGING
 This document describes work undertaken as part of a programme of study at the Faculty of Geo-Information Science and 
 Earth Observation of the University of Twente. All views and opinions expressed therein remain the sole responsibility of the 
 author, and do not necessarily represent those of the Faculty.
+
+## Acknowledgements
+
+This repository was created by [Jorges Nofulla](https://www.linkedin.com/in/jorges-nofulla-5a3139223/).
+
+I would like to express my sincere appreciation to my two thesis supervisors, Sander Oude Elberink and Michael Yang, for their invaluable guidance and support throughout the development of this project.
