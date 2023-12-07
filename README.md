@@ -21,4 +21,7 @@ ALL CODES ARE PRONE TO CHANGING
 [Current Dutch Elevation](https://www.ahn.nl/), available in the form of point clouid tiles via [Geotiles](https://geotiles.nl/)
 ## Steps to follow
 
-
+## DISCLAIMER
+This document describes work undertaken as part of a programme of study at the Faculty of Geo-Information Science and 
+Earth Observation of the University of Twente. All views and opinions expressed therein remain the sole responsibility of the 
+author, and do not necessarily represent those of the Faculty.
